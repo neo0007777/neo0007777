@@ -2,6 +2,11 @@
 
 I participated in **Hacktoberfest** and successfully raised **6 valid pull requests**, all of which were accepted!
 
-![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-6%20PRs%20Completed-blueviolet?style=for-the-badge)
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=neo0007777&theme=radical&no-frame=true&no-bg=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Stats
+![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neo0007777&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neo0007777&theme=radical)
+
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo0007777&layout=compact&theme=radical)
