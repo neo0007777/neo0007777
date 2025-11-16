@@ -10,3 +10,15 @@ I participated in **Hacktoberfest** and successfully raised **6 valid pull reque
 
 ## 📈 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo0007777&layout=compact&theme=radical)
+
+
+## 🌸 Hacktoberfest Trophies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktorberfest-2024%20Completed-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-6-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=neo0007777&repo=Hacktoberfest&theme=radical" />
+</p>
