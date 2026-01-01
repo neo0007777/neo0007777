@@ -6,7 +6,7 @@
 ## ✨ About Me
 - 🚀 Full Stack Developer
 - 🎉 Completed **Hacktoberfest 2024** with **6 PRs**
-- 💻 Solved **120+ problems on Codeforces**
+- 💻 Solved **170+ problems on Codeforces**
 - ⭐ **2-Star Coder** on CodeChef
 - 🎓 CS Student at NST
 - 🔥 Love building UI, solving DSA, and contributing to open source
