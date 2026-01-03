@@ -64,8 +64,8 @@
 
 ## 🏅 Achievements
 - 🎉 Hacktoberfest 2024 Participant — **6 PRs merged**
-- 🏅 Solved **120+ Codeforces problems**
-- ⭐ **1000+ CF Rating**
+- 🏅 Solved **170+ Codeforces problems**
+- ⭐ **900+ CF Rating**
 - 🌟 **2-Star CodeChef Coder**
 - 🥈 Secured **2nd Position at IIT Roorkee Fest**
 - 🏸 3rd place in school badminton championship
