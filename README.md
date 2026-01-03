@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Sharma</h1>
-<h3 align="center">Frontend Web Developer • Open Source Contributor • JavaScript Enthusiast</h3>
+<h3 align="center">Full Stack Developer • Open Source Contributor</h3>
 
 ---
 
