@@ -35,21 +35,26 @@
 
 ## 🧠 About Me
 
-```yaml
-whoami:
-  name: "Shiva Sharma"
-  role: "Full-Stack AI Developer"
-  education: "B.Tech, Artificial Intelligence & Machine Learning — Rishihood University (2024–2028)"
-  currently_building: "AI-powered veterinary tools as AI/ML Intern @ Vetifi"
-  focus: ["RAG Pipelines", "Dual-LLM Architectures", "Vector Search at Scale", "Full-Stack Systems"]
-  achievements:
-    - "🥈 Runner-Up — IIIT Delhi Hackathon"
-    - "🥈 2nd Place — IIT Roorkee Development Competition"
-    - "🌱 6 merged open-source pull requests"
-    - "⚔️ 1000+ rated on Codeforces, 190+ problems solved"
-  currently_learning: "Distributed systems design & agentic AI workflows"
-  fun_fact: "I turn 'it works on my machine' into 'it works in production'."
-```
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👋 Biography</h3>
+      <p>I am a passionate <b>Full-Stack AI Developer</b> studying B.Tech in Artificial Intelligence & Machine Learning at Rishihood University (2024–2028). I specialize in shipping production-grade AI systems, RAG pipelines, and vector databases at scale.</p>
+      <p><b>Currently building:</b> AI-powered veterinary tools as AI/ML Intern @ Vetifi.</p>
+      <p><b>Currently learning:</b> Distributed systems design & agentic AI workflows.</p>
+      <p><i>"I turn 'it works on my machine' into 'it works in production'."</i></p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🏆 Achievements</h3>
+      <ul>
+        <li>🥈 <b>Runner-Up</b> — IIIT Delhi Hackathon</li>
+        <li>🥈 <b>2nd Place</b> — IIT Roorkee Development Competition</li>
+        <li>🌱 <b>Open Source</b> — 6 merged pull requests</li>
+        <li>⚔️ <b>Competitive Programming</b> — 1000+ rated on Codeforces, 190+ problems solved</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
