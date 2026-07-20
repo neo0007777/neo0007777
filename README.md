@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6366F1&height=220&section=header&text=Shiva%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Competitive%20Programmer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Shipping+production-grade+AI+systems%2C+not+just+demos;RAG+Pipelines+%7C+Dual-LLM+Architectures+%7C+Vector+Search;3rd-Year+B.Tech+AI%2FML+%40+Rishihood+University;1000%2B+Codeforces+Rating+%7C+190%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Shipping+production-grade+AI+systems%2C+not+just+demos;RAG+Pipelines+%7C+Dual-LLM+Architectures+%7C+Vector+Search;3rd-Year+B.Tech+AI%2FML+%40+Rishihood+University;Pupil+at+Codeforces+%7C+200%2B+Questions+Solved" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -50,7 +50,7 @@
         <li>🥈 <b>Runner-Up</b> — IIIT Delhi Hackathon</li>
         <li>🥈 <b>2nd Place</b> — IIT Roorkee Development Competition</li>
         <li>🌱 <b>Open Source</b> — 6 merged pull requests</li>
-        <li>⚔️ <b>Competitive Programming</b> — 1000+ rated on Codeforces, 190+ problems solved</li>
+        <li>⚔️ <b>Competitive Programming</b> — Pupil at Codeforces, 200+ questions solved</li>
       </ul>
     </td>
   </tr>
