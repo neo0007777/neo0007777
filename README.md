@@ -21,7 +21,7 @@
   <a href="https://www.codechef.com/users/shiva_sharma21">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://portfolio-one-lime-38.vercel.app/">
+  <a href="https://portfolio-one-lime-38.vercel.app/](https://ai-ml-portfolio-psi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:shiva.sharma2024@nst.rishihood.edu.in">
