@@ -33,4 +33,4 @@ Building LLM- and RAG-based veterinary AI tools with FastAPI, Python, and vector
 
 - 🥈 Runner-Up — IIIT Delhi Hackathon
 - 🥈 2nd Place — IIT Roorkee Development Competition
-- 6 merged pull requests across open-source repositories
+- Merged contributions across various open-source repositories
