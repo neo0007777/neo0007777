@@ -18,12 +18,7 @@ I design and ship end-to-end AI systems — from retrieval pipelines and vector 
 **AI/ML Intern — Vetifi** *(2026–Present)*
 Building LLM- and RAG-based veterinary AI tools with FastAPI, Python, and vector databases; contributing to agentic workflows for domain-specific Q&A.
 
-### Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[FarmSathi](https://github.com/neo0007777/FarmSathi)** — [Live](https://farm-sathi.vercel.app/) | AI advisory platform for farmers: RAG-based Q&A, disease diagnosis, and a live dashboard for mandi prices, weather, and government schemes | FastAPI · React · Groq (Llama 3) · Pinecone |
-| **[NyayaSetu](https://github.com/raghav775/Nyayasetu-clean)** — [Live](https://nyayasetu-clean-jade.vercel.app/) | Legal research & drafting assistant for Indian courts: citation-grounded case search, automated drafting from 1,800+ templates, dual cloud/offline retrieval | FastAPI · React · Qdrant · Groq · Ollama |
 
 ### Skills
 
