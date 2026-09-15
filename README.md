@@ -11,7 +11,7 @@
 
 ### About
 
-I design and ship end-to-end AI systems — from retrieval pipelines and vector search to production APIs. Currently focused on agentic workflows and dual-LLM architectures (cloud + offline fallback). Also an active competitive programmer (Pupil, Codeforces · 200+ problems solved).
+I design and ship end-to-end AI systems — from retrieval pipelines and vector search to production APIs. Currently focused on agentic workflows and dual-LLM architectures (cloud + offline fallback). Also an active competitive programmer (Pupil, Codeforces · 200+ problems solved)
 
 ### Experience
 
