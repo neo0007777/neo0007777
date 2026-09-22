@@ -1,7 +1,7 @@
 # Hi, I'm Shiva Sharma 
 
 **AI/ML Developer** building production-grade RAG pipelines and full-stack AI systems.
-3rd-year B.Tech (AI & ML) @ NST · AI/ML Intern @ Vetifi .
+3rd-year B.Tech (AI & ML) @ NST 
 
 [LinkedIn](https://www.linkedin.com/in/shiva-sharma-8ab069352/) · [Portfolio](https://ai-ml-portfolio-psi.vercel.app/) · [Codeforces](https://codeforces.com/profile/shiva_0079) · [CodeChef](https://www.codechef.com/users/shiva_sharma21) · [Email](mailto:shiva.sharma2024@nst.rishihood.edu.in)
 
