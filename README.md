@@ -19,7 +19,6 @@ I design and ship end-to-end AI systems — from retrieval pipelines and vector 
 Building LLM- and RAG-based veterinary AI tools with FastAPI, Python, and vector databases; contributing to agentic workflows for domain-specific Q&A.
 
 
-
 ### Skills
 
 `Python` `TypeScript` `FastAPI` `React / Next.js` `PyTorch` `LangChain` `Qdrant` `Pinecone` `PostgreSQL` `Docker`
